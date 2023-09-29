@@ -1,0 +1,81 @@
+.imgcontainer, .home-icon
+{
+    width: 25px;
+    right: 55px;
+    top: 5%;
+    opacity: 0.8;
+    background-color: white;
+}
+.w1{
+    position: absolute;
+    top: 5%;
+    left: 400;
+    color: white;
+    font-size: large;
+}
+.box {
+    float: right;
+    width: 50%;
+    padding: 5px;
+    padding-left: 15px;
+  }
+.img-warpper
+{
+    object-fit: cover;
+    width: 97.5vw;
+    height: 100vh;
+}
+.images-viewer{
+    width: 100%;
+    height: 40px;
+
+}
+
+.ps-abs {
+    position: absolute;
+}
+
+.login-text {
+    right: 5px;
+    top: 5%;
+    color: white;
+    font-size: large;
+}
+
+.home-icon {
+    right:87px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  .button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
