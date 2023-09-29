@@ -14,5 +14,5 @@ To overcome tha probelem There is a working page folder in which all the files a
 
 The site can be Accessed using the Login page 
 
-with user name - uname 
-          passwaord - psw
+with           username - uname 
+               password - psw
